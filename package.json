@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "consumer",
   "version": "1.0.0",
   "description": "A simple server that serves static files.",
   "main": "index.js",
